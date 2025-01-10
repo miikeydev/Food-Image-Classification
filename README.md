@@ -36,6 +36,7 @@ This repository contains MATLAB scripts for analyzing the **Food-11 dataset** us
 
 4. You can run the scripts :)
 
-5. License
+## License
 This project is licensed under the MIT License.
+
 Feel free to contribute or open issues for suggestions!
