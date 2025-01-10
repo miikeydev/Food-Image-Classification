@@ -5,13 +5,16 @@ This repository contains MATLAB scripts for analyzing the **Food-11 dataset** us
 
 ## Repository Structure
 
-├── DataAnalysis.m                        # Data exploration and visualization
-├── FeaturesExtractionWithAlexNet.m       # Feature extraction using AlexNet
-├── FeaturesExtractionWithGoogleLeNet.m   # Feature extraction using GoogLeNet
-├── TransfertLearningWithAlexNet.m        # Transfer learning with AlexNet
-├── TransfertLearningWithGoogleLeNet.m    # Transfer learning with GoogLeNet
-├── TrainingCurves/                       # Training curves and performance plots
-├── README.md                             # Project documentation
+## Repository Structure
+
+- `DataAnalysis.m`: Data exploration and visualization
+- `FeaturesExtractionWithAlexNet.m`: Feature extraction using AlexNet
+- `FeaturesExtractionWithGoogleLeNet.m`: Feature extraction using GoogLeNet
+- `TransfertLearningWithAlexNet.m`: Transfer learning with AlexNet
+- `TransfertLearningWithGoogleLeNet.m`: Transfer learning with GoogLeNet
+- `TrainingCurves/`: Training curves and performance plots
+- `README.md`: Project documentation
+
 
 
 
