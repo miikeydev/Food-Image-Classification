@@ -14,6 +14,8 @@ This repository contains MATLAB scripts for analyzing the **Food-11 dataset** us
 - `TransfertLearningWithGoogleLeNet.m`: Transfer learning with GoogLeNet
 - `TrainingCurves/`: Training curves and performance plots
 - `README.md`: Project documentation
+- `Report.pdf`: Full result overview and analysis
+
 
 
 
